@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pulkitraix
+- 👋 Hi, I’m Pulkit Rai
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Front-End(HTML,CSS & JavaScript)
 - 💞️ I’m looking to collaborate on web projects
